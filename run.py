@@ -2,7 +2,7 @@ import requests
 
 urls = [
     "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
-    "https://big.oisd.nl"
+    "https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt"
 ]
 
 unique_lines = set()
