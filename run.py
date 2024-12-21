@@ -2,7 +2,8 @@ import requests
 
 urls = [
     "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
-    "https://big.oisd.nl"
+    "https://big.oisd.nl",
+    "https://raw.githubusercontent.com/neodevpro/neodevhost/master/adblocker"
 ]
 
 unique_lines = set()
